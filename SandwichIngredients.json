@@ -1,0 +1,176 @@
+{
+	"Meatball marinara sub": {
+		"IngredientList": [
+			"Toasted Artisan Italian",
+			"Meatballs",
+			"Provolone",
+			"Parmesean Cheese"
+		],
+		"PossibleIngredients": {
+			"Bread": [
+				"Toasted Artisan Italian",
+				"Toasted Artisan Flatbread",
+				"Toasted Hearty Multigrain",
+				"Toasted Italian Herbs & Cheese"
+			],
+			"Protein": [
+				"Meatballs"
+			],
+			"Cheese": [
+				"American",
+				"Pepper Jack",
+				"Provolone",
+				"Monterey Cheddar"
+			],
+			"Veggies": [
+				"Lettuce",
+				"Spinach",
+				"Tomatoes",
+				"Cucumbers",
+				"Pickles",
+				"Green Peppers",
+				"Black Olives",
+				"Red Onions",
+				"Jalepenos",
+				"Banana Peppers"
+			],
+			"Sauces": [
+				"Oil",
+				"Red Wine Vinegar",
+				"Regular Mayonnaise",
+				"Yellow Mustard",
+				"Honey Mustard",
+				"Buffalo Sauce",
+				"Sweet Onion Teriyaki",
+				"Peppercorn Ranch",
+				"Baja Chipolte",
+				"MVP Parmesean Vinaigrette",
+				"Roasted Garlic Aioli"
+			],
+			"Seasonings": [
+				"Parmesean Cheese",
+				"Black Pepper",
+				"Salt"
+			]
+		}
+	},
+	"Chicken Bacon Ranch": {
+		"IngredientList": [
+			"Toasted Artisan Italian",
+			"Bacon",
+			"Rotisserie-Style Chicken",
+			"Monterey Cheddar",
+			"Lettuce",
+			"Tomatoes",
+			"Red Onions",
+			"Peppercorn Ranch"
+		],
+		"PossibleIngredients": {
+			"Bread": [
+				"Toasted Artisan Italian",
+				"Toasted Artisan Flatbread",
+				"Toasted Hearty Multigrain",
+				"Toasted Italian Herbs & Cheese"
+			],
+			"Protein": [
+				"Bacon",
+				"Rotisserie-Style Chicken"
+			],
+			"Cheese": [
+				"American",
+				"Pepper Jack",
+				"Provolone",
+				"Monterey Cheddar"
+			],
+			"Veggies": [
+				"Lettuce",
+				"Spinach",
+				"Tomatoes",
+				"Cucumbers",
+				"Pickles",
+				"Green Peppers",
+				"Black Olives",
+				"Red Onions",
+				"Jalepenos",
+				"Banana Peppers"
+			],
+			"Sauces": [
+				"Oil",
+				"Red Wine Vinegar",
+				"Regular Mayonnaise",
+				"Yellow Mustard",
+				"Honey Mustard",
+				"Buffalo Sauce",
+				"Sweet Onion Teriyaki",
+				"Peppercorn Ranch",
+				"Baja Chipolte",
+				"MVP Parmesean Vinaigrette",
+				"Roasted Garlic Aioli"
+			],
+			"Seasonings": [
+				"Parmesean Cheese",
+				"Black Pepper",
+				"Salt"
+			]
+		}
+	},
+	"Veggie Delite": {
+		"IngredientList": [
+			"Toasted Hearty Multigrain",
+			"Lettuce",
+			"Spinach",
+			"Tomatoes",
+			"Cucumbers",
+			"Green Peppers",
+			"Red Onions"
+		],
+		"PossibleIngredients": {
+			"Bread": [
+				"Toasted Artisan Italian",
+				"Toasted Artisan Flatbread",
+				"Toasted Hearty Multigrain",
+				"Toasted Italian Herbs & Cheese"
+			],
+			"Protein": [
+				"Bacon",
+				"Rotisserie-Style Chicken"
+			],
+			"Cheese": [
+				"American",
+				"Pepper Jack",
+				"Provolone",
+				"Monterey Cheddar"
+			],
+			"Veggies": [
+				"Lettuce",
+				"Spinach",
+				"Tomatoes",
+				"Cucumbers",
+				"Pickles",
+				"Green Peppers",
+				"Black Olives",
+				"Red Onions",
+				"Jalepenos",
+				"Banana Peppers"
+			],
+			"Sauces": [
+				"Oil",
+				"Red Wine Vinegar",
+				"Regular Mayonnaise",
+				"Yellow Mustard",
+				"Honey Mustard",
+				"Buffalo Sauce",
+				"Sweet Onion Teriyaki",
+				"Peppercorn Ranch",
+				"Baja Chipolte",
+				"MVP Parmesean Vinaigrette",
+				"Roasted Garlic Aioli"
+			],
+			"Seasonings": [
+				"Parmesean Cheese",
+				"Black Pepper",
+				"Salt"
+			]
+		}
+	}
+}
